@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bezdelnik2021
 - 👀 I’m interested in coding
 - 🌱 I’m currently try learning something
-- 💞️ I’m looking to collaborate on Big Data or anything needed strong math
+- 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me ...
 
 <!---
